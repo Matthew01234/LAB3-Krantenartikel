@@ -1,3 +1,22 @@
 body {
-    background-color: powderblue;
+    background-color: rgb(113, 212, 225);
 }
+.first-text {
+    padding-left: 10%;
+  }
+  .outline{
+    margin: auto;
+    width: 80%;
+    height: 600px;
+    border: 2px solid black; 
+  }
+
+  .image1{
+    float:left;
+  }
+  .image2{
+    float:right;
+  }
+  .image3{
+    float:left;
+  }
