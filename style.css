@@ -7,16 +7,25 @@ body {
   .outline{
     margin: auto;
     width: 80%;
-    height: 600px;
+    padding: 40px;
+    height: 660px;
     border: 2px solid black; 
   }
-
+  .headertext{
+    padding-left: 120px;
+  }
   .image1{
     float:left;
+    margin: 10px;
+    border: 2px solid black;
   }
   .image2{
     float:right;
+    margin: 10px;
+    border: 2px solid black;
   }
   .image3{
     float:left;
+    margin: 10px;
+    border: 2px solid black;
   }
